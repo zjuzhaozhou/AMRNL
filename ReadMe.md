@@ -1,0 +1,1 @@
+This is the code for AAAI 2017 paper (to appear): *Community-based Question Answering via Asymmetric Multi-Faceted Ranking Network Learning*, Zhou Zhao, Hanqing Lu, Vincent W. Zheng, Deng Cai, Xiaofei He, and Yueting Zhuang
